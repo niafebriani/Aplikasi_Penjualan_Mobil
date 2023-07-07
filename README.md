@@ -24,6 +24,7 @@ NAMA KELOMPOK
 11. JDK 20
 
 # Lokasi Downloadnya :
-1. http://www.java2s.com/Code/Jar/j/Downloadjcalendar132jar.htm#google_vignette
+1. http://www.java2s.com/Code/Jar/m/Downloadmysqlconnectorjava5123binjar.htm
 2. https://drive.google.com/file/d/1SG-1uQNj77Pr_ub2zLv-jDmxO0_SwiXq/view
+3. http://www.java2s.com/Code/Jar/j/Downloadjcalendar132jar.htm#google_vignette
 
